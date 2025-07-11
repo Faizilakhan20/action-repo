@@ -1,8 +1,3 @@
-Install dependencies:
-pip install flask pymongo python-dotenv
-
-to Start Flask:
-python app.py
-
-Use ngrok for local testing:
-ngrok http 5000
+git add README.md
+git commit -m "Test push event"
+git push origin main
